@@ -9,16 +9,22 @@ The algorithms are as follows:
 6. Insertion Sort
 7. Selection Sort
 8. Counting Sort
-9. Kruskal's Algorithm
-10. Floyd Warshall Algorithm
-11. Dijkstra's Algorithm
-12. Bellman Ford Algorithm
-13. Kadane's Algorithm
-14. Lee Algorithm
-15. Flood Fill Algorithm
-16. Floyd's Cycle Detection Algorithm
-17. Union Find Algorithm
-18. Topological Sort Algortihm
-19. KMP Algorithm
-
-All the algorithms are written on separate jupyter notebook with the explanation. I will continue to add more algorithms to it.
+9. Heap Sort
+10. Kruskal's Algorithm
+11. Floyd Warshall Algorithm
+12. Dijkstra's Algorithm
+13. Bellman Ford Algorithm
+14. Kadane's Algorithm
+15. Lee Algorithm
+16. Flood Fill Algorithm
+17. Floyd's Cycle Detection Algorithm
+18. Union Find Algorithm
+19. Topological Sort Algortihm
+20. KMP Algorithm
+21. Kahn's Topological Sort Algorithm
+22. Huffman Coding Compression Algorithm
+23. Ouickselect Algorithm
+24. Boyer Moore Majority Vote Algorithm
+25. Euclid's Algorithm
+    
+All of the jupyter notebook have explanation for each algorithm with there implementation.
