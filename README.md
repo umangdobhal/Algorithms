@@ -26,5 +26,6 @@ The algorithms are as follows:
 23. Ouickselect Algorithm
 24. Boyer Moore Majority Vote Algorithm
 25. Euclid's Algorithm
-    
+26. Book Allocation using Binary Search
+
 All of the jupyter notebook have explanation for each algorithm with there implementation.
